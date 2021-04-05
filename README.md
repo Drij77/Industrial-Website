@@ -1,2 +1,2 @@
 # Industrial-Website
-This is industrial website made using php, css, html and javascript.
+This is simple industrial website build using PHP, JavaScript, HTML , CSS MySQL and alo PHPMailer.
